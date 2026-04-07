@@ -1,6 +1,6 @@
-# H&P RigSafe – ROC Dashboard
+# Oxy RigSafe – ROC Dashboard
 
-A real-time CCTV surveillance and safety alert monitoring dashboard built for H&P's Remote Operations Center (ROC). The application enables operators to monitor multiple drilling rig camera feeds, track safety alerts, and review incident timelines from a centralized interface.
+A real-time CCTV surveillance and safety alert monitoring dashboard built for Oxy's Remote Operations Center (ROC). The application enables operators to monitor multiple drilling rig camera feeds, track safety alerts, and review incident timelines from a centralized interface.
 
 ---
 
@@ -126,7 +126,7 @@ HP RigSafe/
 │   ├── IncidentDetailsPage.tsx     # Dedicated incident details view
 │   ├── main.tsx                    # React app entry point
 │   └── vite-env.d.ts               # Vite TypeScript environment declarations
-├── index.html                      # HTML shell (title: "H&P RigSafe – ROC Dashboard")
+├── index.html                      # HTML shell (title: "Oxy RigSafe – ROC Dashboard")
 ├── vite.config.js                  # Vite build configuration
 ├── tsconfig.json                   # TypeScript compiler configuration
 ├── eslint.config.js                # ESLint flat config (v9)

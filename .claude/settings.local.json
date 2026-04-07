@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"console.log\\('Node OK'\\)\")",
+      "Bash(node -e \"require\\('sharp'\\); console.log\\('sharp OK'\\)\")",
+      "Bash(node -e \"require\\('jimp'\\); console.log\\('jimp OK'\\)\")",
+      "Bash(magick --version)",
+      "Bash(convert --version)",
+      "Bash(ffmpeg -version)",
+      "Bash(npm list:*)",
+      "Read(//c/Windows/System32/**)"
+    ]
+  }
+}

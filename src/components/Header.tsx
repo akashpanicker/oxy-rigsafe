@@ -51,9 +51,9 @@ function Header({ isSidebarOpen, onToggleSidebar, pageTitle = "Dashboard", onLog
           }}
           aria-label={onLogoClick ? "Back to Dashboard" : undefined}
         >
-          <img src="/assets/images/HP-Logo.png" alt="H&P Logo" className="header__logo-img" />
+          <img src="/assets/images/Oxy-Logo.png" alt="Oxy Logo" className="header__logo-img" />
           <div className="header__logo-text">
-            <span className="header__logo-title">H&amp;P RigSafe</span>
+            <span className="header__logo-title">Oxy RigSafe</span>
             <span className="header__logo-subtitle">{pageTitle}</span>
           </div>
         </div>
